@@ -1,0 +1,12 @@
+PLACEHOLDER FILE — REPLACE WITH YOUR ACTUAL SOURCE DATA.
+
+The original notebook this project was extracted from used a pharmaceutical
+knowledge base text file at this path (data/RAG_source.txt) that was not
+included in the uploaded .ipynb file. The example queries in
+query_transformation_rag.py reference fictional drugs named "Zelomax" and
+"Xenthera", so your source file should contain passages describing those
+(or your own) products if you want the example queries to retrieve
+meaningful results.
+
+Simply delete this placeholder text and paste in your real source content,
+or point the TextLoader in query_transformation_rag.py at a different file.
